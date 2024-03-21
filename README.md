@@ -1,2 +1,4 @@
 # Tugas-Ai-Big-Data
-mencari contoh coding python dengan ekstensi *.ipynb  yang di bagian atas ada syntax "from sklearn import ..."
+Nama: Muhammad Ridho Rizaldi
+NIM: 1101213040
+Kelas: AI dan Big Data
