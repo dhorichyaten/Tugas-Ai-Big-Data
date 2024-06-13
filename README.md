@@ -2,7 +2,7 @@
 Muhammad Ridho Rizaldi (1101213040)
 
 ## Overview
-This project is dedicated to predicting 1-hour EURUSD exchange rates using a sophisticated combination of deep learning techniques. The process follows a systematic approach, starting with meticulous data preparation, including formatting and Min-Max scaling to ensure optimal model convergence. The incorporation of technical indicators such as RSI, MA, EMA, and VWAP enriches the model's understanding of market dynamics.
+This project is dedicated to predicting 1-hour EURUSD exchange rates using a sophisticated combination of deep learning techniques. The process follows a systematic approach, starting with meticulous data preparation, including formatting and Min-Max scaling to ensure optimal model convergence. The incorporation of technical indicators such as RSI, MA, EMA, and VWAP enriches the model's understanding of market dynamics. The initial step involves preparing the dataset that contains historical EUR/USD exchange rates. This preparation includes organizing the data in a structured format and applying Min-Max scaling. Min-Max scaling is a normalization technique that adjusts the range of data values to ensure that the deep learning model can process them more efficiently, leading to better performance and faster convergence.
 
 ## Model Architecture
 The heart of the predictive power lies in the model architecture, which seamlessly integrates LSTM cells, self-attention mechanisms, and 1D convolutional layers. This design is crafted to capture intricate temporal patterns in the EURUSD exchange rates. The implementation is carried out using TensorFlow, providing a customizable and flexible framework.
