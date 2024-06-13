@@ -29,6 +29,8 @@ Project Usage Guide for Google Colab
 
 from google.colab import files
 
+from google.colab import files
+
 # Upload your CSV file
 uploaded = files.upload()
 Click on the "Choose Files" button, select your EURUSD_H1.csv file, and wait for the upload to complete.
